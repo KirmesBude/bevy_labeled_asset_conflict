@@ -1,0 +1,8 @@
+(
+    this_a: (
+        name: "SomeName",
+    ),
+    this_b: (
+        value: 19,
+    ),
+)

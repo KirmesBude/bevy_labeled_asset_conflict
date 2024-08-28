@@ -1,0 +1,8 @@
+(
+    that_a: (
+        flag: false,
+    ),
+    that_b: (
+        percent: 0.86,
+    ),
+)
